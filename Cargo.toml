@@ -2,7 +2,7 @@
 name = "kv-storage"
 version = "0.1.0"
 edition = "2024"
-description = "Based on SLED, KV storage similar to Redis, supporting ​​key-value,​​Maps, ​​Lists,TTL,​​Counters​​"
+description = "Based on SLED, KV storage similar to Redis, supporting key-value,Maps,Lists,TTL,Counters"
 license = "MIT"   
 authors = ["yaobos@outlook.com"]  
 repository = "https://github.com/yaobo-lab/kv-storage"
